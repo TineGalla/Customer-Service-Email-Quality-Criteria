@@ -1,8 +1,3 @@
----
-title: '**Customer Service Email Quality Criteria**'
-
----
-
 # **Customer Service Email Quality Criteria**
 
 A high-quality customer service email response ensures **clarity, professionalism, and customer satisfaction**. Below are the key criteria for evaluating a customer service representative’s (CSR) email response.
